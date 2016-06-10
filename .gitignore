@@ -1,0 +1,6 @@
+.vs
+bin
+*.xproj.user
+project.lock.json
+obj
+out.txt
