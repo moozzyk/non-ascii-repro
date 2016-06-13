@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.IO;
 using System.Text;
 
@@ -8,7 +8,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            const string text = "Hëllö Wörld!";
+            const string text = "HÃ«llÃ¶ WÃ¶rld!";
 
             foreach (var c in text)
             {
